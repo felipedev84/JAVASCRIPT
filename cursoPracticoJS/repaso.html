@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>repaso</title>
+</head>
+<body>
+    <script>
+        // primera funcion.
+        function saludar(nombre){
+            return nombre;
+        }
+
+        document.write(saludar("luis felipe"));
+
+        // segunda funcion.
+        
+
+        function saludarEstudiantes(estudiante)
+        {
+	
+	        return estudiante;
+        }
+        document.write(saludarEstudiantes("adriana durango"));
+
+
+
+
+        // Condiciones dentro de funciones.
+        function parametroMayor(parametro1, parametro2){
+            if(parametro1>parametro2){
+                document.write("El valor mayor es el parametro1");
+            }else{
+                document.write("El valor mayor es el parametro2");
+            }
+        }
+
+        document.write(parametroMayor(50, 30));
+
+
+
+
+        var myArray = ["cristiano","messi","mbappe"];
+
+
+        function saludarEstudiantes(estudiante){
+            document.write("hola"+estudiante);
+        }
+
+        for(let i=0; i<myArray.length;i++){
+            saludarEstudiantes(myArray[i]);
+        }
+
+
+
+
+        var array = [{nombre:"manchester", pais: "inglaterra"},
+                    {nombre:"atlenacional", pais:"colombia"},
+                    {nombre:"borusiaDortmund", pais:"alemania"}];
+
+                    var equipoSeleccionado = array.filter(function(equipo){
+                        return equipo.pais=="inglaterra";
+                    });
+
+                    console.log(equipoSeleccionado);
+
+        // Otra forma de hacerlo
+
+        //Arreglos
+
+        var myArray = [10,9,8,7,6,5,4,3,2,1];
+        function primerElemento(numero){
+            document.write(numero[0]);
+        }
+
+        primerElemento(myArray);
+
+        
+
+        
+
+        //  CONDICIONALES.
+        // Primera forma de hacerlo.
+
+        var tiposuscripcion = parseInt(prompt(" ingrese el tipo de suscripción 1='basic', 2='free', 3='expert', 4='expertplus' "));
+        if(tiposuscripcion === 1){
+            document.write("puedes tomar todos los cursos de platzi durante un mes");
+        }else
+            if(tiposuscripcion === 2){
+                document.write("puedes tomar todos los cursos que sean gratis");
+            }else
+                if(tiposuscripcion === 3){
+                    document.write("puedes tomar todos los cursos durante un año.");
+                }else
+                    if(tiposuscripcion === 4){
+                        document.write("tu y alguien mas pueden tomar todos los cursos de platzi durante un año.");
+                    }
+        else{
+            document.write("No estas en ninguna suscripción.");
+        }
+
+
+
+
+        //Segunda forma de hacerlo.
+
+        
+        
+        var tiposuscripcion = prompt("Digite la keyword o tipo de suscripcion 1='basic', 2='free', 3='expert', 4='expertplus'");
+        if(tiposuscripcion === "basic"){
+            document.write("puedes tomar todos los cursos de platzi durante un mes");
+        }else
+            if(tiposuscripcion === "free"){
+                document.write("puedes tomar todos los cursos que sean gratis");
+            }else
+                if(tiposuscripcion === "expert"){
+                    document.write("puedes tomar todos los cursos durante un año.");
+                }else
+                    if(tiposuscripcion === "expertplus"){
+                        document.write("tu y alguien mas pueden tomar todos los cursos de platzi durante un año.");
+                    }
+        else{
+            document.write("No estas en ninguna suscripción.");
+        }
+
+
+         // Ejercicio con solo condicional if.
+
+        
+        var tipoSuscripcion = parseInt(prompt("Digite el número de opción del plan está interesado: opciones 1 ='free, 2 ='basic', 3 ='expert'"));
+        if(tipoSuscripcion === 1){
+            document.write("Solo puedes tomar los cursos gratis");
+        }
+        if(tipoSuscripcion === 2){
+            document.write("Solo puedes tomar los cursos quemas puedas durante un miserable mes");
+        }
+
+        if(tipoSuscripcion === 3){
+            document.write("Puedes tomar los cursos o hacer una carrera digital durante un año");
+        }
+
+        // ciclos.
+
+        for(let i=0; i<5;i++){
+            document.write("el valor es "+i);
+        }
+
+        for(let i=10; i>=2;i--){
+            document.write("el valor de i"+i);
+        }
+
+
+        // Replica el comportamiento del codigo anterior usando el ciclo while.
+
+        var i = 0;
+        while(i < 5){
+            document.write("el valor del numero es: "+i);
+            i = i+1;
+        }
+
+        // segunda forma de hacerlo.
+
+        var i = 10;
+        while(i>=2){
+            document.write("el valor del numero es: " +i);
+            i = i-1;
+        }
+
+        var i = 0;
+        do{
+            i++;
+            document.write("Este  es el valor de la posición."+i);
+        }while(i<8)
+
+
+
+        var resultado = parseInt(prompt("cuanto es 2+2"));
+
+        if(resultado === 4){
+            document.write("Felicitaciones respuesta correcta");
+        }else{
+            document.write("error, respondiste mal");
+        }
+
+
+        // Arreglos. recibiendo como parámetro el array.
+
+        var array = [10,9,8,7,6,5,4,3,2,1];
+         function allElements(ofThisArray){
+             ofThisArray.forEach(item => {
+             console.log(item);
+             });
+         }
+            allElements(array);
+
+        // //Otra forma de hacer arreglos recibiendo como parametro el objeto.
+
+        var myObject = {product: "Buzz Lightyear", price: 43, category: "toys"};
+
+        function allElements(ofThisObject){
+        let objectValues = Object.values(ofThisObject);
+        objectValues.forEach(item => {
+            console.log(item);
+        });
+    }    allElements(myObject);
+
+    </script>
+</body>
+</html>

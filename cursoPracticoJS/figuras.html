@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>figuras geometricas</title>
+</head>
+<body>
+
+    <header>
+        <h1>Figuras Geometricas.</h1>
+        <p>Este es el taller del curso práctico de javascript.</p>
+    </header>
+
+    <section>
+        <h2>Calcula el área y el perímetro de un cuadrado.</h2>
+        <form action="">
+            <label for="inputCuadrado">
+                Escribe cuanto mide cada uno de los lados del cuadrado.
+            </label>
+            <input  id="inputCuadrado" type="number" />
+            <button type="button" onclick="calcularPerimetroCuadrado()"> Calcular el perimetro</button>
+            <button type="button" onclick="calcularAreaCuadrado()">Calcular el area.</button>
+        </form>
+    </section>
+
+    <section>
+        <h2>calcular area de un triangulo rectangulo</h2>
+        <form action="">
+            <input  id="inputTriAltura" type="number" />
+            <input  id="inputTriBase" type="number" />
+            <button type="button" onclick="triArea()"> Calcular el perimetro</button>
+            <label for="areaResultado">Area:</label>
+            <div id="areaResultado">fgfgf</div>
+        </form>
+    </section>
+
+    <section class="sec-Tri-Esc">
+        <h2>Calcula el área y el perímetro de un tríangulo escaleno.</h2>
+        <form action="">
+            <label for="inputTriangulo">
+                Escribe cuánto mide el lado de un triangulo.
+            </label>
+            <input type="number" id="inputTriEscL1"/>
+
+            <label for="inputTriangulo2">
+                Escribe cuánto mide el  segundo lado de un triangulo.
+            </label>
+            <input type="number" id="inputTriEscL2"/><br>
+
+            <label for="inputTrianguloBase">
+                Escribe cuánto mide la base del triangulo.
+            </label>
+            <input type="number" id="inputTriB"/>
+
+            <label for="">Resultado:</label>
+            <div id="resEsc"></div>
+
+            <button type="button" onclick="perTriEsc()">perímetro Triangulo</button>
+            <button type="button" onclick="areaTriEsc()">Area Triangulo.</button>
+        </form>
+    </section>
+
+    <section class="section-isosceles">
+        <h2>Hallar la altura del triangulo Isosceles.</h2>
+        <form action="">
+            <label for="">ingrese el primer lado del triangulo isoscels</label>
+            <input type="number" id="ladoAIsos">
+            <label for="">Ingrese el segundo lado del triangulo isosceles</label>
+            <input type="number" id="ladoBIsos">
+            <label for="">Ingrese el lado base del triangulo isosceles</label>
+            <input type="number" id="ladoBaseIsos">
+            <button type="button" onclick="alturaIsosceles()">Altura</button>
+            <p id="resIsosceles"></p>
+        </form>
+    </section>
+
+    <section class="section-circulo">
+        <h2 class="subtitle">Hallar el radio del círculo.</h2>
+        <form action="">
+            <input type="number" id="radio">
+            <button type="button" onclick="radioEsfera()" class="btn">Radio</button>
+            <label for="">Resultado:</label>
+            <div id="resCirculo"></div>
+        </form>
+    </section>
+
+    
+   
+
+    <script src="./figuras.js"></script>
+</body>
+</html>
