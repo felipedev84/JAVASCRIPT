@@ -1,0 +1,391 @@
+Clase 6 carta de presentación.
+
+¿Qué es una cover letter o carta de presentación?
+
+La cover letter es tu carta de presentación dirigida a la empresa a la que estás postulando. Esta carta tiene como objetivo atraer la atención del lector a tu perfil. Es muy importante que personalices tu cover letter para la empresa y el puesto específico al que postulas. ¡Una cover letter genérica no será bien vista por las personas encargas de reclutamiento!
+
+Puedes seguir estos 6 pasos para crear una cover letter efectiva:
+
+1. Saluda
+
+Dirígete a la persona que está llevando tu proceso de reclutamiento o al equipo de la empresa a la que aplicas.
+
+2. Preséntate
+
+Explica cuál es tu perfil y las herramientas o plataformas que manejas para tu trabajo. También cuéntale al reclutador o reclutadora qué te motiva a unirte a esa empresa.
+
+3. Haz el match de tus skills con la vacante
+
+Nombra la vacante a la cual estás aplicando y describe brevemente cómo tus habilidades y experiencia se adaptan a los requerimientos mencionados en el job description.
+
+4. Call to action para conocer tu experiencia
+
+Invita al lector a conocer más de tu experiencia leyendo tu CV, perfil de Linkedin y tu portafolio (por ejemplo, invítale a revisar tus proyectos en Github).
+
+5. Call to action para tener una entrevista
+
+Menciona tu disponibilidad y el medio por el cual prefieres que te contacten para tener una entrevista.
+
+6. Despedida
+
+Cierra con una frase incitando al lector a darle respuesta a tu comunicación.
+
+Uniendo los puntos anteriores, la carta quedaría así:
+¡Hola equipo Platzi!
+
+Les escribe Jane Doe, desarrolladora Frontend con 2 años de experiencia trabajando con HTML, Javascript, CSS y React.
+
+Conozco el trabajo de Platzi y como desarrolladora de software me encantaría participar en la mejora continua de un producto que impacta e impulsa la vida de la población de Latinoamérica, llevando conocimiento en tecnología de una manera fácil y divertida de aprender.
+
+Apliqué a la vacante “Rockstar Developer” publicada en su sitio de carreras. Mi experiencia me ha permitido desarrollar el frontend para plataformas online optimizadas y amigables con el usuario. En mi CV describo como lo he hecho y las herramientas que he usado. Para darte una mejor idea de lo que te hablo te invito a revisar mi perfil de Github.
+
+Me encantaría tener una entrevista. Mi disponibilidad para recibir llamadas telefónicas es de lunes a viernes de 9:00am a 5:00pm.
+
+Quedó en espera de tu confirmación para la entrevista.
+
+- Jane Doe
+
+Ahora que ya sabes cómo escribir una cover letter…
+Puedes adjuntarla en el correo de postulación junto con tu CV. En caso de que la empresa no te solicite como requisito una carta de presentación, puedes usar la misma estructura que aprendiste aquí para escribir el cuerpo del correo que acompaña a tu CV.
+
+La estructura de los 6 pasos es muy versátil. Te recomiendo usarla y modificarla para comunicarte efectivamente durante tu proceso de reclutamiento.
+
+
+Clase 7 como leer la descripción de un trabajo.
+
+Una job description es una descripción detallada de un puesto de trabajo. Esta vez vamos a aprender a leer una descripción del puesto. Cuando una persona deja un cargo porque es promovida a otra posición o simplemente ingresa a otra empresa, se necesita crear una descripción de todas las responsabilidades de esta en un equipo de trabajo.
+
+Es importante que sepas esta información para que puedas tener mayor éxito en tus búsquedas y aplicaciones. Este es un ejemplo de ficha para un puesto de trabajo.
+
+
+Partes de una descripción de trabajo
+Cada parte debe de una descripción de puesto de trabajo debe detallar con precisión cada aspecto necesario o propuesto para un rol. Estas son las partes:
+
+● Nombre del puesto: tiene que ser específico.
+● Rol o seniority (junior- middle - senior).
+● Formación: detalle de títulos, cursos, idiomas o conocimientos necesarios.
+● Experiencia: que necesitas tener para poder postularte, por ejemplo: mínimo 3 años en un puesto similar.
+● Remuneración: el dinero ofrecido.
+● Tareas y responsabilidades: todas las actividades a realizar dentro del puesto.
+● Habilidades requeridas: son competencias que debe tener el candidato, como por ejemplo: adaptación, creatividad, iniciativa, comunicación, gestión del tiempo, trabajo en equipo, resolución de problemas, capacidad de liderazgo y negociación.
+
+Una job description efectiva proporciona suficientes detalles para que los candidatos comprendan el puesto y las características de la empresa. Este proceso es cualitativo, no cuantitativo, es decir, no se trata de encontrar cantidad sino propuestas de calidad.
+
+¿Cuándo debería aplicar a un puesto de trabajo?
+Quizás en este punto estés insegura o inseguro de aplicar al trabajo de tus sueños porque quieres encontrar el momento correcto. Ten esto en cuenta.
+
+● Aplica si cubres más del 65% los requerimientos solicitados en la vacante.
+● No tienes que cumplir con todos los requisitos.
+● Confía en tus habilidades.
+
+
+Clase 8 
+
+Una entrevista de trabajo es uno de los últimos pasos que deberías completar antes de obtener el puesto que soñaste. Recuerda que para convertirlo en realidad solo necesitas prepararte y conocer algunos tips para que te prepares para superar la entrevista exitosamente con Recursos Humanos.
+
+Etapas del proceso de entrevista
+Ten en cuenta estas tres etapas al aplicar a un nuevo empleo.
+
+1. Presentación. En el primer paso se expone el cargo que está disponible y se explica qué condiciones ofrece la empresa.
+2. Desarrollo. Luego, inician las preguntas para conocer más al candidato y es crucial comunicar cuáles sus competencias y en qué se diferencia del resto.
+3. Cierre. En este punto de la entrevista, la persona encargada de la estrategia de reclutamiento solo espera resolver dudas finales para tomar la decisión final.
+
+❗Recomendación
+
+Para lograr una gran impresión por primera vez en el trabajo al que quieres aplicar, sé puntual, muestra entusiasmo, viste de acuerdo al empleo que aspiras, sé amable, exprésate correctamente y por último ¡demuestra una actitud positiva!
+
+Abraham nos comenta algunos consejos para estar mejor preparado o preparada y que tengas éxito al aplicar. ¿Fuiste contactado o te postulaste? Pues lo primero que deberías hacer es tener todos tus procesos actualizados.
+
+Crea un vínculo con tu entrevistador
+Algo que puede ayudarte a encontrar el puesto de tus sueños es investigar y conocer un poco más acerca del entrevistador o entrevistadora. Para esto puedes:
+
+● Visitar su perfil en LinkedIn.
+● Reconocer sus intereses.
+● Investigar su experiencia.
+● Ser amable, es una persona haciendo su trabajo.
+● Enseñar la mejor actitud que es el 50% del puesto.
+
+Antes de tu entrevista
+Justo en el momento antes de la entrevista deberías asegurar una reunión con:
+
+● Cámara encendida.
+● Sonido de calidad.
+● Lugar sin interrupciones y cómodo.
+● Buena conexión a internet.
+
+Lenguaje
+Recuerda trabajar en la manera en que te comunicas con los demás. Tus palabras no son las únicas que cuentan, práctica tu lenguaje:
+
+● Verbal
+● No Verbal
+
+Durante la entrevista
+Recuerda que para la entrevista necesitas lo siguiente:
+
+● Atención plena.
+● Escucha activa.
+● Vínculo con el reclutador.
+● Actitud.
+● Lee el lenguaje no verbal del reclutador.
+
+Cierre de la entrevista… ¿Y luego?
+
+Al finalizar el proceso puedes
+
+● Realizar preguntas.
+
+● Hacer seguimiento.
+
+● Crear una huella mental en tu reclutador.
+
+
+💡 Consejos para afrontar una entrevista de trabajo
+¡Llegó el día! Sigue estos consejos para conseguir el trabajo de tus sueños.
+
+Prepara una presentación resumida de tu currículum, seguro te será útil.
+
+Busca los puntos fuertes y débiles y prepárate para justificarlos y/o usarlos a tu favor.
+
+Realiza una investigación sobre la empresa y demuestra tu interés.
+
+No respondas con monosílabos.
+
+Pregunta cómo continúa el proceso de selección.
+
+Agradece que te hayan llamado para hacer la entrevista.
+
+No olvides realizar seguimiento a la entrevista.
+
+
+
+Clase 9 entrevista tecnica live Coding
+
+La entrevista técnica es una evaluación para conocer las habilidades prácticas del postulante con respecto a los requerimientos en la descripción del puesto. En esta clase veremos cómo prepararte para las entrevistas técnicas y cómo demostrar que tienes las capacidades para el cargo.
+
+¿Cómo prepararte para las entrevistas técnicas?
+Esta parte del proceso tienen el objetivo de conocer si lo que dice tu CV se refleja en tu forma de actuar y precisamente cómo resuelves un problema aplicando las habilidades solicitadas para el puesto de trabajo.
+
+Consejos para conseguir trabajo
+● Entiende lo que te están preguntando. Tiempo necesario para pensar, analizar, diseñar una pequeña estrategia para resolver el problema. Vuelve a preguntar todo lo que no quede claro.
+
+● Da ejemplos. Ejemplifica la solución, diseña un algoritmo para resolver el problema.
+
+● Explica tu solución. Explicar al reclutador cómo vamos a resolver el problema planteado, puede mencionar algo específico que debamos tener en cuenta y evaluará cómo respondemos a su sugerencia.
+
+● Programa. Tienes que ir explicando lo que estás haciendo, las decisiones de tu código, porque optaste por ellas, no permanecer en silencio.
+
+● Prueba. Cuando ya tienes tu primera versión y estás conforme, intenta explicar a tu entrevistador cada línea del código.
+
+● Itera. Podemos optimizar nuestra solución, puede funcionar, pero no es la más óptima y si tenemos tiempo podemos plantear las mejoras que podemos desarrollar
+
+❗ Lo más importante es que la persona que te está entrevistando entienda cómo solucionas un problema. Con estos pasos tus probabilidades de que tu prueba técnica sea un éxito mejorará. 
+
+
+Clase 10 aprendiendo a lidiar con el rechazo.
+
+Ser rechazado o rechazada en un proceso de selección de trabajo es una nueva oportunidad para adquirir competencias o entrar en explorar otro lugar. Así que en esta clase veremos cómo puedes aprender a lidiar con el rechazo en la búsqueda de empleo y obtener un beneficio para seguir aprendiendo.
+
+La búsqueda de trabajo nunca es una tarea sencilla y lidiar con un “NO” puede provocar desmotivación. Además, puedes perder la confianza en ti para buscar tu sitio en una empresa ideal.
+
+El pasado puede doler, pero tal como yo lo veo, puedes huir de él o aprender de él.
+
+¿Cómo lidiar con el rechazo?
+Puedes aprender de la experiencia, tomar las retroalimentación que te dan para mejora y lograr capacitarte para responder las preguntas y pruebas de la forma más adecuada.
+
+Evalúa las razones del rechazo
+Existen muchas razones por las cuales no puedes ser seleccionado en un proceso. Estas pueden ser algunas:
+
+● Existe otro candidato que se alinea mejor con la oferta de trabajo.
+● Si aplicaste al final del ciclo, quizás ya tienen a alguien a punto de firmar y quedas en lista de espera por si esa persona no acepta.
+● La empresa puede decidir no continuar con las contrataciones por algún motivo.
+● Pudiste no responder adecuadamente una pregunta.
+● En la prueba técnica no explicaste correctamente cómo resolver el problema.
+
+Si conoces los motivos por los cuales fuiste rechazado, podrás prepararte mejor para una nueva entrevista o volver a intentarlo para el puesto que sueñas.
+
+¿Qué es lo importante de enfrentar el rechazo?
+Lo que realmente importa es reaccionar de una manera positiva y proactiva sin pensar demasiado en cada uno de los rechazos. Con ello vas a conseguir mayores oportunidades de encontrar el puesto de trabajo que deseas.
+
+Veamos lo que comparte uno de nuestros alumnos. Baldan comenta:
+● Personalmente, prefiero tomarme el rechazo como algo positivo.
+● Si es una cuestión de que no tenía las capacidades técnicas suficientes, entonces me viene bien una toma de contacto con la realidad.
+● Si es una cuestión de que no encajo con la cultura organizacional de la empresa, entonces, sinceramente, creo que me hicieron un favor.
+● “No quiero trabajar por dinero, sino para cumplir mi misión vital”
+
+¿Qué hacer luego del rechazo?
+Después de evaluar las razones del rechazo, es relevante volver a centrar la energía en los próximos pasos de la búsqueda de empleo.
+
+Si no mejoras la actitud después del rechazo, solamente se van a obstaculizar las posibilidades de obtener el puesto perfecto. No pierdas tu objetivo final, busca tomar capacitarte o tener pasantías de trabajo. Sobre todo para aquellas habilidades clave que debes mejorar. Ambas acciones ayudan a construir una autovaloración positiva dde tus capacidades.
+
+😊 Lo ideal radica en volver a la búsqueda de trabajo revitalizado y reorientado para tener éxito en el siguiente proceso.
+
+‪Nunca dejes que nadie te diga que no puedes hacer algo. Si tienes un sueño, no dejes de luchar por él. Si quieres algo, ve por ello.‬
+
+
+Clase 11 que es ghosting laboral
+
+Ghosting es una práctica que ocurre cuando una persona o empresa rompe el contacto con alguien repentinamente y no hay una explicación clara del porqué. En el ámbito laboral esto sucede con frecuencia, algunas veces el o la candidata cree que tuvo un gran desempeño, pero no recibe una respuesta final.
+
+No eres tú, es el sistema. Sin embargo, deberías considerar que existen varias razones por las que no recibes una respuesta inmediata de la empresa a la que quieres aplicar, que te enseñaremos a continuación.
+
+✅ 10 razones por las que no recibes respuesta del reclutador
+Algunas veces el ghosting en el trabajo puede darse por múltiples razones y antes de tomarlo como algo personal, deberías analizar estos escenarios hipotéticos.
+
+● Te llamaron por teléfono y no contestaste.
+● La vacante se cerró.
+● El reclutador está de vacaciones.
+● La vacante fue puesta en pausa.
+● Hubo un cambio de perfil y tu CV ya no hace clic en la vacante.
+● El hiring manager renunció y no hay quien te entreviste.
+● Hay prioridad de entrevistar candidatos internos o referidos.
+● La vacante aún no ha sido aprobada.
+● Tu CV se perdió entre cientos de aplicaciones.
+● Felicitaciones, el reclutador amó tu CV y está por llamarte.
+
+No pauses tu búsqueda de trabajo
+
+Cuando tienes una entrevista que consideras exitosa, puede ser tentador dejar la búsqueda de trabajo en espera hasta que recibas una respuesta. Pero esto podría provocar que pierdas el impulso y otras oportunidades.
+
+“Incluso si te sientes realmente bien con una entrevista, no dejes de buscar trabajo hasta que tengas una oferta por escrito o un contrato firmado”,
+
+
+Clase 12 esquemas de contratación 
+
+Los esquemas de contratación son distintas maneras de remuneración para trabajadores y trabajadoras por sus actividades, pues las empresas deben asegurar su bienestar a partir de distintos beneficios. Por ejemplo, existen las prestaciones sociales que pueden ser más atractivas en unos lugares, pero pueden implicar un salario menor.
+
+Tipos de sueldo en las empresas
+Si estás en la búsqueda de empleo para comenzar en el mundo profesional, ten en cuenta estas diferencias.
+
+● Salario bruto: es el sueldo antes de deducirse los impuestos y prestaciones de ley.
+● Salario neto: es el sueldo depositado en tu cuenta bancaria o bolsillo cada mes, quincena o semana.
+
+Esquemas de contratación
+Los esquemas de contratación se refieren a la manera en que recibes pagos y otras compensaciones.
+
+● Nómina 100%: la empresa reporta al gobierno el 100% de tu sueldo, te da beneficios y derechos a prestaciones de ley.
+● Mixto: la empresa reporta un porcentaje de tu sueldo ante el gobierno y te da derechos a prestaciones de ley.
+● Freelance: la empresa no reporta tu sueldo al gobierno, recibes un sueldo sin deducciones, tú eres responsable de realizar las deducciones y realizar el pago de impuestos, no tienes derecho a prestaciones de ley.
+
+Prestaciones y beneficios
+Las prestaciones y beneficios son derechos a los que tienes acceso como empleado o empleada.
+
+● Prestaciones de ley (salud pública, vacaciones pagadas, ahorro al fondo de retiro, etc.)
+● Beneficios superiores (gimnasio, vales de gasolina, transporte, bonos, etc.)
+
+😊 Ahora es tu oportunidad de evaluar cada esquema y ver con cuál te sientes más a gusto para tomar una decisión cuando tengas una nueva propuesta laboral.
+
+Clase 13 negociación
+
+La negociación de una propuesta laboral es un proceso en el cual la persona a cargo de la contratación se reúne con la o el candidato para proponer y llegar a un acuerdo sobre el valor del salario. También negocian qué tipo de beneficios va a poder conseguir la o el trabajador.
+
+¿Te gustaría conocer cuáles son los puntos clave para alcanzar una negociación exitosa al negociar en un nuevo trabajo? ¡Sigue leyendo!
+
+Cómo responder a tus expectativas salariales
+En toda entrevista de trabajo te preguntarán cuánto ganas o cuánto quieres ganar en el futuro 💰. Responder esto es incómodo para la mayoría de las personas, pues no están acostumbrados o acostumbradas a hablar de dinero. También parece un juego de tira y afloje.
+
+Cuánto pides > Para ver cuánto te ofrezco
+
+Investiga cuánto gana una persona en tu industria
+Te recomiendo que seas consciente de cuál es el promedio de salarios en tu país, ya que varía bastante entre uno y otro. Aquí puedes ver un ejemplo de salarios para México y Colombia en tecnología. Esto varía todo el tiempo, pero te puede ayudar a identificar lo que puedes pedir con relación a tu experiencia.
+
+salario_tecnologia_mexico_colombia
+También puedes leer algunos estudios de empresas como Empleos IT o Software Guru que cada año despliegan una investigación identificando cuánto está pagando el mercado.
+
+Puntos de una oferta de trabajo
+La oferta de trabajo es un documento en el que una empresa comunica, por escrito, a un candidato que le ofrece para determinado puesto al que desea aplicar. Los puntos claves que debe incluir son:
+
+● Nombre del puesto
+● Día de entrada
+● Sueldo
+● Prestaciones
+● Ubicación/Remoto
+● Tipo de contrato
+● Expectativas del puesto
+● Líder directo
+
+Si alguno de estos datos no vienen expresados en la oferta, puedes solicitarlos a la empresa.
+
+Pon sobre la mesa tu experiencia laboral
+Disponer de las herramientas y de los conocimientos para negociar permite adaptarse a un entorno laboral competitivo y exigente, esa es la clave para mejorar y evolucionar laboralmente.
+● Conocimientos
+● Inversión
+● Estudios
+● Dinero
+● Tiempo
+● Logros
+
+Ya estás listo o lista para pedir de forma directa lo que necesitas. No tengas miedo a pedir más.
+
+Eres lo que vales, no vales lo que otra persona te dijo, vales lo que has invertido y lo que te has esforzado.
+
+Puntos que puedes negociar en la oferta de trabajo
+Existen más puntos que puedes negociar además del salario, pues no todo es dinero. Algunas de estas condiciones son:
+
+● Trabajo remoto
+● Seguro médico
+● Vacaciones
+● Tiempo de entrada
+● Perks (beneficios extras)
+
+🤝Una negociación depende de ambas partes, lo que tu estés pidiendo y lo que la empresa puede ofrecerte.
+No debes cerrarte para lograr lo que quieres, cuando des una contraoferta cierra diciendo: “Estoy dispuesto o dispuesta a negociar o atento a sus comentarios”.
+
+
+Clase 14
+
+
+El proceso de renuncia laboral ocurre cuando una colaboradora o colaborador decide dejar su puesto de trabajo. A continuación conocerás algunas de las razones por la que tú puedes renunciar y también cómo hacerlo de una manera adecuada.
+
+Razones por las que puedes renunciar
+No tienes por qué sentirte culpable si tomaste la decisión de dejar tu empresa. Algunas veces esto se debe al contexto y estas son algunas de las causas.
+
+➕ Razones positivas
+● Tienes una mejor oferta de trabajo.
+● Te van a pagar mejor.
+● Te están ofreciendo actividades que realmente te apasionan.
+
+➖ Razones negativas
+● ¿No te han pagado en meses?
+● ¿No se logró solucionar la interacción en tu equipo a pesar de los planes de acción?
+● ¿Acoso o discriminación?
+
+Siempre sé profesional al renunciar
+A pesar de las circunstancias, habla con tu jefe directo para avisar que vas a renunciar, este es quien se encarga de establecer tus tareas, porque él o ella tendrá que tomar medidas a futuro. Evita situaciones incómodas por falta de comunicación efectiva.
+
+📌 Finalmente llega el cierre. Sé considerado y deja todo en orden para qué la persona que te reemplace pueda realizar el trabajo sin encontrar un desastre.
+
+Estos son algunos consejos que nos comparte Nahuel Brandan en la sección de comentarios
+
+● No renuncies hasta tener la propuesta laboral fija de la siguiente empresa.
+● No digas a qué empresa te vas, reservalo al menos durante el tiempo de transición, ya que puede suceder que por cuestiones de presiones, o por algún tipo de conexión, se termine cayendo la oferta.
+
+
+Clase 15. Contraoferta.
+
+Este es un momento en el que ya te decidiste a dejar tu trabajo, ya pensaste en los pros y los contras de dejar atrás todo por lo que en algún momento te esforzaste por hacer bien… Pero tu empresa decide no aceptar tu renuncia sin negociar, es decir, te presentan una contraoferta.
+
+Es muy posible que, al hablar con tu líder de la decisión que tomaste de dejar la empresa, te diga que verá qué puede hacer para que no te vayas. Generalmente la contraoferta está relacionada al salario, pero también hay otras áreas de negociación como:
+
+Cambiar tus actividades diarias a algo que te apasiona
+Tener un contrato 100% nómina
+Darte un seguro médico más amplio
+Poder trabajar desde casa
+Más días de vacaciones
+En fin, puede haber muchas cosas para negociar pero, al final, lo importante es que la empresa está reconociendo que no quieren que te vayas. Y por eso, están dispuestos a darte más de lo que pensaban que merecías antes de que supieran que alguien te ofrecía darte más.
+
+Como vimos en la clase anterior sobre el proceso de renuncia, tienes que tener muy claro por qué estás renunciando. Esto te permitirá comparar si lo que te ofrecen es suficiente para rechazar una nueva oportunidad, o si justo llega a compensar lo que te hacía querer irte.
+
+También es importante que tengas claro cuál es tu objetivo laboral. Así sabrás si, a pesar de que te igualen las prestaciones, la nueva oportunidad va más alineada a tus aspiraciones profesionales… Recuerda, ¡no todo es dinero!
+
+¿Qué hacer si recibes otra contraoferta de la empresa que te quiere contratar?
+Imaginemos que la contraoferta de tu empresa actual te gustó y decidiste quedarte. ¡Perfecto, ya tomaste la decisión de quedarte en tu trabajo actual! Así que vas con la nueva empresa a comunicar que no aceptarás su oferta, que te quedas donde estás porque te ofrecieron lo que buscabas… Pero tampoco quieren aceptar tu decisión sin negociar, ¡así que te hacen otra contraoferta!.
+
+Varios de los alumnos de Platzi Master han vivido estas situaciones. Llegaron a una nueva etapa de su vida laboral y ahora tienen happy problems (es decir, problemas que de alguna manera dan señal de una situación positiva, como decidir entre 2 ofertas laborales muy buenas).
+
+Esto sucede cuando tu nivel es tan bueno que las empresas son conscientes de que vale la pena negociar lo más posible. Pero al final solo habrá una persona ganadora… ¡tú!
+
+No te preocupes, no le debes nada a nadie, tú puedes tomar la decisión que creas más adecuada. Solo recuerda qué es lo que quieres y a dónde quieres llegar. Aquí es donde todo lo que has aprendido en este curso te ayudará a tomar una buena decisión, desde ser leal a tu objetivo laboral, reconocer las necesidades de cada job description, la investigación que hiciste sobre la empresa, cómo te sentiste con la gente que te entrevistó, hasta identificar los tipos de contratos y prestaciones.
+
+Si a pesar de hacer todas estas reflexiones aún no sabes qué decisión tomar, un truco rápido que me enseñó Arce fue: ¡lanza una moneda! Cada cara de la moneda es una de las ofertas. Si lo que cae no te emociona, entonces no es la opción correcta.
+
+En un mundo ideal, las empresas deberían estar siempre conscientes de las necesidades y aspiraciones de sus empleadas y empleados. Así, la probabilidades de querer cambiar de trabajo disminuirían dramáticamente. Pero en el mundo real, es común que las empresas solo reaccionen cuando empleados o empleadas valiosas las están dejando. Y aquí es cuando nos toca gestionar una contraoferta 😉
