@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<script>
+		let frutas = ["papaya","sandia","naranja","pera"];
+		document.write(frutas);
+
+		//Forma de meter otro elemento al arreglo.
+
+		 let masFrutas = frutas.push("uvas","meolocoton","coco","banano");
+		 document.write(frutas); 
+
+		 //3ra forma.
+
+		 let ultimo = frutas.pop("banano");
+		 document.write(frutas);
+
+		 //4ta forma.
+
+		 let primero = frutas.unshift("chontaduro");
+		 document.write(frutas);
+
+		//5ta forma.
+
+		let borrar = frutas.shift("chontaduro");
+		document.write(frutas);
+
+	</script>
+</body>
+</html>

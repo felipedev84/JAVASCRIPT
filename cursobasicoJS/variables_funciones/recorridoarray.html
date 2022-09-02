@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<script>
+		var articulos = [
+		{nombre: "bici", costo: 3000},
+		{nombre: "bluza", costo: 1000},
+		{nombre: "freno", costo: 2000},
+		{nombre: "lamina", costo: 400},
+		{nombre: "llanta", costo: 200},
+		];
+
+		var articulosFiltrados = articulos.filter(function(articulo)
+		{
+			return articulo.costo <= 500;
+
+
+		});
+		document.write(articulosFiltrados);
+
+			</script>
+</body>
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+	<script>
+		var articulos = [
+		{nombre: "bici", costo: 3000},
+		{nombre: "bluza", costo: 1000},
+		{nombre: "frenos", costo: 2000},
+		{nombre: "guantes", costo: 400},
+		{nombre: "llanta", costo: 200},
+		];
+
+		var encuentraArticulo = articulos.find(function(articulo){
+			return articulo.nombre === "bluza";
+
+
+		});
+
+		document.write(encuentraArticulo);
+
+		
+
+		//segundo metodo foreach
+
+		 articulos.forEach(function(articulo){
+			document.write(articulo.nombre);
+		});
+
+		//tercer metodo.
+
+
+		var articulosBaratos = articulos.some(function(articulo){
+			return articulo.costo <=700;
+		});
+
+		document.write(articulosBaratos);
+
+
+		//cuarto metodo.
+
+
+		var art = articulos.map(function(articulo){
+			return articulo.costo <=500;
+		});
+
+
+		document.write(art);
+
+
+
+	</script>
+</body>
+</html>
